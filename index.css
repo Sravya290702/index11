@@ -1,0 +1,38 @@
+body{
+    background-color: darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+}
+form{
+    padding:10px;
+    border-radius:30px;
+    
+}
+label{
+    display:block;
+    margin:auto;
+    font-weight:50px;
+}
+input[type=text]
+input[type=text]
+input[type=tel]
+input[type=text]
+input[type=text]
+textarea{
+    padding: 30px;
+    border-radius: 20px;
+    background-color: rgb(87, 64, 141);
+}
+input[type=button]{
+background-color: blue;
+cursor:pointer;
+}
+.container{
+    height: 20px;
+    width: 20px;
+    margin:20px:
+}
+ 
